@@ -1,0 +1,13 @@
+Appium-Python-Client==0.46
+certifi==2019.3.9
+chardet==3.0.4
+ddt==1.2.1
+et-xmlfile==1.0.1
+idna==2.8
+jdcal==1.4
+openpyxl==2.6.1
+PyMySQL==0.9.3
+pywin32==221
+requests==2.22.0
+selenium==3.141.0
+urllib3==1.25.3
