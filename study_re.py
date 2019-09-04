@@ -23,6 +23,7 @@ p = "#(.*?)#"  # 正则表达式
 # data_new = re.sub(p, v, data, count=1)  # 查找替换,count查找替换的次数
 # print(data_new)
 
+
 # 如果要匹配多次，替换多次，使用循环来解决
 
 while re.search(p, data):
